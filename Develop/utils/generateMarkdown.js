@@ -16,8 +16,8 @@ function generateMarkdown(data) {
     * [Contributing](#contributing)
     * [Tests](#tests)
     * [Questions](#questions)
+    
     # Installation
-
     The following necessary dependencies must be installed to run the application properly: inquire, fs, util 
     
     # Usage 
